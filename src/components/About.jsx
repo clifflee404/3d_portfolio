@@ -1,6 +1,5 @@
 /* eslint-disable react/no-unknown-property */
 /* eslint-disable react/prop-types */
-import React from "react";
 import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
 
